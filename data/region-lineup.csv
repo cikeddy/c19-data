@@ -1,0 +1,9 @@
+﻿Region,positive tests,negative tests,total tests,percent positive,latest confirmed,# of ED Discharges,# In Critical Care,# on Ventilators,# of Inpatients,Total Number of Hospital Beds,Hospital Inpatient Beds,Hospital Inpatient Bed Occupancy,ICU Beds,ICU Bed Occupancy,Negative Pressure Isolation Total,Negative Isolation Available,Mechanical Ventilators,Available Ventilators,Available Operating Room,Available Adult MedSurg,Available Burn Care,Available Pediatric,Available Psychiatric,Total Morgue Capacity,Morgue Availability,Visits with Coronavirus Symptom
+Region 1,17,147,164,10.4,45,67,68,45,105,1824,1412,754,196,134,263,185,240,163,35,274,0,28,52,55,29,2.66
+Region 2N,126,401,527,23.9,118,139,384,330,1240,5339,5033,3054,541,459,309,86,837,448,66,451,0,98,98,213,88,0.91
+Region 2S,238,551,789,30.2,220,205,650,562,1580,6968,6175,4081,1221,960,572,176,1132,470,49,896,13,171,55,658,270,0.73
+Region 3,40,234,274,14.6,16,46,148,114,248,3160,2138,1259,362,278,214,88,300,183,79,788,0,107,28,112,57,1.36
+Region 5,38,323,361,10.5,30,25,33,21,76,2098,1527,978,173,106,242,127,176,128,37,534,10,44,73,38,33,1.63
+Region 6,47,355,402,11.7,33,47,36,24,86,2757,1944,1102,393,256,235,130,426,374,68,799,55,101,31,95,74,2.68
+Region 7,18,210,228,7.9,0,10,20,7,19,965,940,393,76,43,171,137,101,84,40,351,0,31,7,30,30,2.91
+Region 8,1,49,50,2,0,6,7,4,3,696,475,175,58,26,89,72,68,68,37,277,13,42,25,29,27,1.97

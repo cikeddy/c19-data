@@ -1,0 +1,85 @@
+County,Confirmed Cases,Reported Deaths
+Alcona,4,
+Allegan,50,
+Alpena,38,1
+Antrim,9,
+Arenac,13,1
+Barry,28,1
+Bay,93,2
+Benzie,4,
+Berrien,177,11
+Branch,42,2
+Calhoun,168,5
+Cass,23,1
+Charlevoix,12,1
+Cheboygan,14,1
+Chippewa,1,
+Clare,10,1
+Clinton,106,7
+Crawford,32,2
+Delta,12,2
+Detroit City,8026,747
+Dickinson,3,2
+Eaton,104,5
+Emmet,22,2
+Genesee,1362,138
+Gladwin,10,1
+Gogebic,4,1
+Grand Traverse,19,5
+Gratiot,8,1
+Hillsdale,97,12
+Houghton,2,
+Huron,9,
+Ingham,350,7
+Ionia,27,2
+Iosco,15,2
+Isabella,54,7
+Jackson,289,12
+Kalamazoo,212,11
+Kalkaska,17,2
+Kent,757,25
+Lake,2,
+Lapeer,154,23
+Leelanau,8,
+Lenawee,77,
+Livingston,308,11
+Luce,1,
+Mackinac,5,
+Macomb,4628,473
+Manistee,11,
+Marquette,35,6
+Mason,5,
+Mecosta,13,1
+Menominee,1,
+Midland,47,3
+Missaukee,12,1
+Monroe,247,10
+Montcalm,26,1
+Montmorency,6,
+Muskegon,173,11
+Newaygo,12,
+Oakland,6463,529
+Oceana,4,1
+Ogemaw,6,
+Osceola,8,
+Oscoda,4,
+Otsego,78,6
+Ottawa,149,7
+Presque Isle,6,
+Roscommon,11,
+Saginaw,474,35
+Sanilac,32,3
+Schoolcraft,3,
+Shiawassee,123,3
+St Clair,271,16
+St Joseph,27,1
+Tuscola,71,11
+Van Buren,36,2
+Washtenaw,912,40
+Wayne,6535,572
+Wexford,7,1
+MDOC*,655,25
+FCI**,57,
+Unknown,3,
+Out of State,37,1
+Totals,33966,2813

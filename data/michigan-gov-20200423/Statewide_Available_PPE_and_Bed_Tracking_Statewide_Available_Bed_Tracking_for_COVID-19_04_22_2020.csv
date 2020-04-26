@@ -1,0 +1,20 @@
+Regions,Region 1,Region 2 North,Region 2 South,Region 3,Region 5,Region 6,Region 7,Region 8,TOTAL
+Total Number of Hospital Beds,1818,5342,7077,3174,2135,2745,965,702,23958
+Hospital Inpatient Beds,1567,5055,6497,2437,1485,1940,940,500,20421
+Hospital Inpatient Bed Occupancy,919,3143,4400,1509,1031,1045,406,191,12644
+ICU Beds,201,521,1260,375,177,402,76,53,3065
+ICU Bed Occupancy,132,457,992,277,109,265,35,28,2295
+Negative Pressure Isolation Total,260,312,591,214,240,236,171,89,2113
+"Negative Pressure 
+Isolation Available",176,94,119,81,121,112,138,76,917
+Mechanical Ventilators,242,837,1205,304,177,436,103,79,3383
+Available Ventilators,166,472,549,186,119,343,92,77,2004
+"Available 
+Operating Room",35,66,67,80,37,87,40,28,440
+"Available Adult 
+MedSurg",235,544,1023,759,504,771,341,244,4421
+Available Burn Care,0,0,16,0,9,49,0,17,91
+Available Pediatric,26,99,170,106,40,104,31,40,616
+Available Psychiatric,59,101,102,26,72,31,7,26,424
+Total Morgue Capacity,55,218,674,112,34,95,30,29,1247
+Morgue Availability,26,94,299,67,25,78,27,26,642
